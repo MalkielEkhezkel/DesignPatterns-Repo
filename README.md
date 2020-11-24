@@ -9,6 +9,7 @@ https://www.dofactory.com/net/design-patterns
   2. Builder - Separates object construction from its representation - 2
 ![AbstractFactory](https://user-images.githubusercontent.com/26318617/100099278-e1d0d180-2e67-11eb-9ac2-cf41fa8c7fec.jpg)
   3. Factory - Method	Creates an instance of several derived classes - 5
+![AbstractFactory](https://user-images.githubusercontent.com/26318617/100099472-2b212100-2e68-11eb-94a7-eaa012b4b18e.jpg)
   4. Prototype - A fully initialized instance to be copied or cloned - 3
   5. Singleton - A class of which only a single instance can exist - 4
   
