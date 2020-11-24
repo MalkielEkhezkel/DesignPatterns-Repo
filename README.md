@@ -7,7 +7,7 @@ https://www.dofactory.com/net/design-patterns
   1. Abstract Factory -	Creates an instance of several families of classes - 5
 ![AbstractFactory](https://user-images.githubusercontent.com/26318617/100099026-843c8500-2e67-11eb-90f9-556e9cc261f2.jpg)
   2. Builder - Separates object construction from its representation - 2
-  
+![AbstractFactory](https://user-images.githubusercontent.com/26318617/100099278-e1d0d180-2e67-11eb-9ac2-cf41fa8c7fec.jpg)
   3. Factory - Method	Creates an instance of several derived classes - 5
   4. Prototype - A fully initialized instance to be copied or cloned - 3
   5. Singleton - A class of which only a single instance can exist - 4
