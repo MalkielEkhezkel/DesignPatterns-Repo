@@ -8,11 +8,12 @@ https://www.dofactory.com/net/design-patterns
 ![AbstractFactory](https://user-images.githubusercontent.com/26318617/100099026-843c8500-2e67-11eb-90f9-556e9cc261f2.jpg)
   2. Builder - Separates object construction from its representation - 2
 ![AbstractFactory](https://user-images.githubusercontent.com/26318617/100099278-e1d0d180-2e67-11eb-9ac2-cf41fa8c7fec.jpg)
-  3. Factory - Method	Creates an instance of several derived classes - 5
+  3. Factory Method -	Creates an instance of several derived classes - 5
 ![AbstractFactory](https://user-images.githubusercontent.com/26318617/100099472-2b212100-2e68-11eb-94a7-eaa012b4b18e.jpg)
   4. Prototype - A fully initialized instance to be copied or cloned - 3
 ![AbstractFactory](https://user-images.githubusercontent.com/26318617/100099659-6facbc80-2e68-11eb-8c98-f441a5aa5bce.jpg)
   5. Singleton - A class of which only a single instance can exist - 4
+![AbstractFactory](https://user-images.githubusercontent.com/26318617/100099902-b1d5fe00-2e68-11eb-82c1-d0f4ec58ef86.jpg)
   
   
 # Structural Patterns
@@ -28,7 +29,7 @@ https://www.dofactory.com/net/design-patterns
   
 # Behavioral Patterns
 
-  1. Chain of Responsibility - A way of passing a request between a chain of objects - 2
+  1. Chain of Resp. - A way of passing a request between a chain of objects - 2
   2. Command - Encapsulate a command request as an object - 4
   3. Interpreter - A way to include language elements in a program - 1
   4. Iterator - Sequentially access the elements of a collection - 5
