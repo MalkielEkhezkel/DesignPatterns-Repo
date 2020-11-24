@@ -35,4 +35,4 @@ https://www.dofactory.com/net/design-patterns
   9. Strategy - Encapsulates an algorithm inside a class - 4
   10. Template Method - Defer the exact steps of an algorithm to a subclass - 3
   11. Visitor - Defines a new operation to a class without change - 1
-  
+  -----
