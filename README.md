@@ -5,8 +5,9 @@ https://www.dofactory.com/net/design-patterns
 # Creational Patterns
 
   1. Abstract Factory -	Creates an instance of several families of classes - 5
-  ![AbstractFactory](https://user-images.githubusercontent.com/26318617/100097893-ded4e180-2e65-11eb-93ba-dbdfc28d2b1e.jpg)
+![AbstractFactory](https://user-images.githubusercontent.com/26318617/100099026-843c8500-2e67-11eb-90f9-556e9cc261f2.jpg)
   2. Builder - Separates object construction from its representation - 2
+  
   3. Factory - Method	Creates an instance of several derived classes - 5
   4. Prototype - A fully initialized instance to be copied or cloned - 3
   5. Singleton - A class of which only a single instance can exist - 4
