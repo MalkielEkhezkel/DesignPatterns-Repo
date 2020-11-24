@@ -5,6 +5,7 @@ https://www.dofactory.com/net/design-patterns
 # Creational Patterns
 
   1. Abstract Factory -	Creates an instance of several families of classes - 5
+  
   2. Builder - Separates object construction from its representation - 2
   3. Factory - Method	Creates an instance of several derived classes - 5
   4. Prototype - A fully initialized instance to be copied or cloned - 3
@@ -35,4 +36,4 @@ https://www.dofactory.com/net/design-patterns
   9. Strategy - Encapsulates an algorithm inside a class - 4
   10. Template Method - Defer the exact steps of an algorithm to a subclass - 3
   11. Visitor - Defines a new operation to a class without change - 1
-  -----
+
