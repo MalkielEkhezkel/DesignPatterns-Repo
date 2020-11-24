@@ -12,7 +12,7 @@ https://www.dofactory.com/net/design-patterns
 ![AbstractFactory](https://user-images.githubusercontent.com/26318617/100099472-2b212100-2e68-11eb-94a7-eaa012b4b18e.jpg)
   4. Prototype - A fully initialized instance to be copied or cloned - 3
 ![AbstractFactory](https://user-images.githubusercontent.com/26318617/100099659-6facbc80-2e68-11eb-8c98-f441a5aa5bce.jpg)
-  5. Singleton - A class of which only a single instance can exist - 4
+  5. Singleton - A class of which only a single instance can exist - 4<br>
 ![AbstractFactory](https://user-images.githubusercontent.com/26318617/100099902-b1d5fe00-2e68-11eb-82c1-d0f4ec58ef86.jpg)
   
   
