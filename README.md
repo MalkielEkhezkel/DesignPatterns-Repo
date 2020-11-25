@@ -2,6 +2,8 @@
 Design pattern test repository <br>
 https://www.dofactory.com/net/design-patterns
 
+![DP](https://user-images.githubusercontent.com/26318617/100195257-bac5de80-2eff-11eb-8cd7-1816a45598c4.jpg)
+
 # Creational Patterns
 
   1. Abstract Factory -	Creates an instance of several families of classes - 5
